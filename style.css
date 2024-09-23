@@ -14,3 +14,8 @@ html, body {
     margin: 0;
     padding: 20px; 
 }
+
+.button-clik {
+    margin: 10px;
+    height: 20px; 
+}
